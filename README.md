@@ -1,4 +1,4 @@
-<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
 <h1 align="center"> Hello There! I'm Chifa Ben Ghozzi ! 👋 </h1>
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=chaymabghozzi&label=Profile%20views&color=0e75b6&style=plastic" alt="Chifa-Ben-Ghozzi" /> </p>
