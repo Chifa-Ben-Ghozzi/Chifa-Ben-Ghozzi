@@ -1,13 +1,13 @@
   <h1 align="center"> Hello There! I'm Chifa Ben Ghozzi ! 👋 </h1>
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=chaymabghozzi&label=Profile%20views&color=0e75b6&style=plastic" alt="chaymabghozzi" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=chaymabghozzi&label=Profile%20views&color=0e75b6&style=plastic" alt="Chifa-Ben-Ghozzi" /> </p>
   
  ## Welcome to my Github Profile! 😄
  
 <p align="center"> I'm a s student at the Higher Institute of Computer Science | ISI Ariana
 	
 <div id="header" align="center">
-  <img src="https://png.pngtree.com/png-vector/20210906/ourmid/pngtree-e-learning-programmer-with-a-female-character-sitting-and-carrying-computer-png-image_3843626.jpg" width="100"/>
+  <img src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" width="100"/>
 </div>
 ## 🛠️ My Skills
 
