@@ -1,4 +1,4 @@
-<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
+
 <h1 align="center"> Hello There! I'm Chifa Ben Ghozzi ! 👋 </h1>
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=chaymabghozzi&label=Profile%20views&color=0e75b6&style=plastic" alt="Chifa-Ben-Ghozzi" /> </p>
@@ -10,6 +10,8 @@
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" width="30%"/>
 </div>
+
+
 ## 🛠️ My Skills
 
 ###  Programming languages
