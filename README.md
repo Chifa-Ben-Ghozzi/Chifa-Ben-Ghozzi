@@ -7,7 +7,7 @@
 <p align="center"> I'm a s student at the Higher Institute of Computer Science | ISI Ariana
 	
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" width="100%"/>
+  <img src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" width="50%"/>
 </div>
 ## 🛠️ My Skills
 
