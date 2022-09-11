@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hello There! I'm Chifa Ben Ghozzi ! 👋 </h1>
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=chaymabghozzi&label=Profile%20views&color=0e75b6&style=plastic" alt="Chifa-Ben-Ghozzi" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chifa-Ben-Ghozzi&label=Profile%20views&color=0e75b6&style=plastic" alt="Chifa-Ben-Ghozzi" /> </p>
   
  ## Welcome to my Github Profile! 😄
  
